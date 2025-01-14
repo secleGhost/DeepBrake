@@ -1,0 +1,14 @@
+C:\Users\enrique\source\repos\FileLess\bin\Debug\net8.0\DeepBrake.exe
+C:\Users\enrique\source\repos\FileLess\bin\Debug\net8.0\DeepBrake.deps.json
+C:\Users\enrique\source\repos\FileLess\bin\Debug\net8.0\DeepBrake.runtimeconfig.json
+C:\Users\enrique\source\repos\FileLess\bin\Debug\net8.0\DeepBrake.dll
+C:\Users\enrique\source\repos\FileLess\bin\Debug\net8.0\DeepBrake.pdb
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.AssemblyInfoInputs.cache
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.AssemblyInfo.cs
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.csproj.CoreCompileInputs.cache
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.dll
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\refint\DeepBrake.dll
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.pdb
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\DeepBrake.genruntimeconfig.cache
+C:\Users\enrique\source\repos\FileLess\obj\Debug\net8.0\ref\DeepBrake.dll
