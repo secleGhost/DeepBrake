@@ -17,7 +17,7 @@
 
 ![alt text](https://github.com/secleGhost/DeepBrake/blob/556955f3279e931892830294ca8e053b701c812d/image/example1.png)
 
-The attack was carried out with 500 threads with 1 millisecond timeout and GET method.
+The attack was carried out with 500 threads with 1 millisecond timeout and POST method.
 
 Use different settings in Timeout and number of threads to throw a site.
 
